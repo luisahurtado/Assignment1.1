@@ -1,5 +1,5 @@
 #!/bin/bash
-# Question 1 of the assignment 1.
+# Assignment 1 question 1.
 # The script resturns the name of the newest file
 # from the documents given in the input
 # Save as newer.sh
