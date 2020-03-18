@@ -1,4 +1,5 @@
 #!/bin/bash
+# Assignment 1 question 3 subsection e.
 # Modification of the original code
 # First, gives a time signal every hour when connected to cron
 # Then, a pause of 3 seconds and chimes accordingly to the minutes of the date
