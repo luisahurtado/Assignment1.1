@@ -18,7 +18,7 @@ if [ $minutes -lt 30 ] && [ $minutes -ge 15 ]; then
 	echo -e "\a"
 	sleep 1
 	echo -e "\a"
-   elif [ $minutes -ge 59 ] && [ $minutes -le 45 ]; then
+   elif [ $minutes -le 59 ] && [ $minutes -ge 45 ]; then
 	echo -e "\a"
 	sleep 1
 	echo -e "\a"
