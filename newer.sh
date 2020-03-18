@@ -4,4 +4,4 @@
 #from the documents given as the input
 #Save as newer.sh
 documents=$(ls -t $* |head -n 1)
-echo "The newer file in the list is $documents"
+echo "The newest file in the list is $documents"
